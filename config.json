@@ -19,8 +19,8 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
